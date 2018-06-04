@@ -1,6 +1,5 @@
 package fastdfs.client;
 
-import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
